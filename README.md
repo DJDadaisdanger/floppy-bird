@@ -36,7 +36,7 @@ Play live on [itch.io](https://djdadaisdanger.itch.io/floppy-bird).
 
 ## Tech Stack
 
-* **Engine:** Unity 6 (6000.x)
+* **Engine:** Unity 6 (6000.5.10f1)
 * **Language:** C#
 * **Physics:** 2D Rigidbody & Trigger Colliders
 * **Target Platform:** WebGL (HTML5 Canvas)
